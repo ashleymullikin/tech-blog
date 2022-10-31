@@ -1,4 +1,4 @@
-## MVC Tech Blog
+## Tech Blog
 
 Github Link: https://github.com/ashleymullikin/tech-blog
    
