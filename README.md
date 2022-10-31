@@ -1,6 +1,8 @@
 ## Tech Blog
 
 Github Link: https://github.com/ashleymullikin/tech-blog
+
+Heroku: https://git.heroku.com/evil-blood-75617.git
    
 ### Description
 
